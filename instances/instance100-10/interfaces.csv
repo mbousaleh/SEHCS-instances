@@ -1,0 +1,11 @@
+center_id,first_name,last_name,address,latitude,longitude,skill,specialty,working_hours_per_week,email,login,role
+1,Intervenant1,Intervenant1,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Jardinage,35,Intervenant1.Intervenant1@gmail.com,Intervenant1.Intervenant1@gmail.com,INTERVENANT
+1,Charge,Mission,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Mecanique,35,charge1.mission@email.com,charge1.mission@email.com,PROJECT_MANAGER
+1,Sophie,Dulemme,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Menuiserie,21,sophie.dulemme@email.com,sophie.dulemme@email.com,INTERVENANT
+1,Marie,Madeleine,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Mecanique,21,marie.madeleine@email.com,marie.madeleine@email.com,INTERVENANT
+1,Intervenant2,Intervenant2,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Electricite,21,Intervenant2.Intervenant2@gmail.com,Intervenant2.Intervenant2@gmail.com,INTERVENANT
+1,Intervenant3,Intervenant3,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Musique,21,Intervenant3.Intervenant3@gmail.com,Intervenant3.Intervenant3@gmail.com,INTERVENANT
+1,Planif2,Planif,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Menuiserie,21,planif2@email.com,planif2@email.com,PLANIFICATRICE
+1,Sandra,Tonard,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Electricite,21,sandra.tonard@email.com,sandra.tonard@email.com,INTERVENANT
+1,Intervenant4,Intervenant4,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Jardinage,21,Intervenant4.Intervenant4@gmail.com,Intervenant4.Intervenant4@gmail.com,INTERVENANT
+1,Intervenant5,Intervenant5,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Musique,21,Intervenant5.Intervenant5@gmail.com,Intervenant5.Intervenant5@gmail.com,INTERVENANT

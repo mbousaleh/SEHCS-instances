@@ -1,0 +1,5 @@
+center_id,first_name,last_name,address,latitude,longitude,skill,specialty,working_hours_per_week,email,login,role
+2,Intervenant1,Intervenant1,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Jardinage,35,Intervenant1.Intervenant1@gmail.com,Intervenant1.Intervenant1@gmail.com,INTERVENANT
+1,Chargé,Mission,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Mécanique,35,charge1.mission@email.com,charge1.mission@email.com,PROJECT_MANAGER
+1,Sophie,Dulemme,51 Rue du Vallon 49000 Angers,47.5,-0.57,LSF,Menuiserie,24,sophie.dulemme@email.com,sophie.dulemme@email.com,INTERVENANT
+1,Intervenant5,Intervenant5,51 Rue du Vallon 49000 Angers,47.5,-0.57,LPC,Musique,24,Intervenant5.Intervenant5@gmail.com,Intervenant5.Intervenant5@gmail.com,INTERVENANT
